@@ -63,16 +63,9 @@ public class Lesson1 {
                 System.out.println("Job: fail end");
             }
 
-
-
-
         }catch(Exception e){
             System.out.println("MAIN: "+e.getMessage());
         }
-
-
-
-
     }
 }
 
